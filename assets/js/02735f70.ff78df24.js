@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkds_blog_source=self.webpackChunkds_blog_source||[]).push([[3377],{5709:s=>{s.exports=JSON.parse('{"label":"dax","permalink":"/tags/dax","allTagsPath":"/tags","count":1}')}}]);
