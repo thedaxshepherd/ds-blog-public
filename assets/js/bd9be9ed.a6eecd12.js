@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkds_blog_source=self.webpackChunkds_blog_source||[]).push([[895],{2185:s=>{s.exports=JSON.parse('{"label":"hugo","permalink":"/tags/hugo","allTagsPath":"/tags","count":1}')}}]);

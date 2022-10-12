@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkds_blog_source=self.webpackChunkds_blog_source||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Using Hugo and GitHub Pages for my blog","permalink":"/website-hugo-blog-git-wordpress"}]}')}}]);
