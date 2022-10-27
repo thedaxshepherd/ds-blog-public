@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thedaxshepherd.net/</id>
-    <title>The DAX Shepherd Blog</title>
+    <title>The DAX Shepherd Blog Feed</title>
     <updated>2021-11-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://thedaxshepherd.net/"/>
-    <subtitle>The DAX Shepherd Blog</subtitle>
+    <subtitle>Musings on the Microsoft BI Stack</subtitle>
     <icon>https://thedaxshepherd.net/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Using Hugo and GitHub Pages for my blog]]></title>

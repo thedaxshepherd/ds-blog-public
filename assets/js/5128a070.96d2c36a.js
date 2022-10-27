@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkds_blog_source=self.webpackChunkds_blog_source||[]).push([[385],{2900:e=>{e.exports=JSON.parse('{"permalink":"/tags/github","page":1,"postsPerPage":4,"totalPages":1,"totalCount":1,"blogDescription":"Musings on the Microsoft BI Stack","blogTitle":"The DAX Shepherd"}')}}]);
