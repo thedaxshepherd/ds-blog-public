@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>The DAX Shepherd Blog</title>
-        <link>https://thedaxshepherd.com/</link>
+        <link>https://thedaxshepherd.net/</link>
         <description>The DAX Shepherd Blog</description>
         <lastBuildDate>Wed, 10 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[Using Hugo and GitHub Pages for my blog]]></title>
-            <link>https://thedaxshepherd.com/2021/11/10/website-hugo-for-blog</link>
+            <link>https://thedaxshepherd.net/2021/11/10/website-hugo-for-blog</link>
             <guid>/2021/11/10/website-hugo-for-blog</guid>
             <pubDate>Wed, 10 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[My Experience with using Hugo and deploying to Github Pages.]]></description>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://thedaxshepherd.com/</id>
+    <id>https://thedaxshepherd.net/</id>
     <title>The DAX Shepherd Blog</title>
     <updated>2021-11-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://thedaxshepherd.com/"/>
+    <link rel="alternate" href="https://thedaxshepherd.net/"/>
     <subtitle>The DAX Shepherd Blog</subtitle>
-    <icon>https://thedaxshepherd.com/img/favicon.ico</icon>
+    <icon>https://thedaxshepherd.net/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Using Hugo and GitHub Pages for my blog]]></title>
         <id>/2021/11/10/website-hugo-for-blog</id>
-        <link href="https://thedaxshepherd.com/2021/11/10/website-hugo-for-blog"/>
+        <link href="https://thedaxshepherd.net/2021/11/10/website-hugo-for-blog"/>
         <updated>2021-11-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[My Experience with using Hugo and deploying to Github Pages.]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" alt="Sheep" src="/assets/images/Sheep_Sitting-5b48a3f6cefc1e445d9abf4dea7ba599.svg" width="94" height="116" class="img_ev3q"></p><p>I would like to say that this blog has been relaunched on GitHub using Hugo. If something never launched in the first place I am not sure it can be relaunched.
