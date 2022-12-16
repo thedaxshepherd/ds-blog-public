@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkds_blog_source=self.webpackChunkds_blog_source||[]).push([[995],{9683:s=>{s.exports=JSON.parse('{"label":"netsuite","permalink":"/tags/netsuite","allTagsPath":"/tags","count":2}')}}]);
